@@ -1,4 +1,5 @@
 # Algorithmic-Robotics-Modified-DH-parameters-forward-kinematics
+FK.py is responsible for the calculation and Realistic 3D manipulator.py is for simulation
 ![](Images/1.png) 
 ![](Images/2.png) 
 ![](Images/3.png) 
